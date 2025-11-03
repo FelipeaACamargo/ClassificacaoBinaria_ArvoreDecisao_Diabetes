@@ -9,6 +9,18 @@ Este projeto apresenta uma solução completa de Machine Learning para classific
 - **Algoritmo:** DecisionTreeClassifier (Árvore de Decisão)
 - **Tarefa:** Classificação binária (0 = não possui diabetes, 1 = possui diabetes)
 
+## Dados
+No arquivo Diabetes.xlsx, contém as seguintes informações:
+    - **Gravidez:** Número de vezes que engravidaram
+    - **Glicose:** Concentração plasmática de glicose em 2 horas em um teste oral
+    - **Pressão Arterial:** Pressão arterial diastólica (mm Hg)
+    - **Espessura da Pele:** Espessura da prega cutânea do tríceps (mm)
+    - **Insulina:** Insulina sérica de 2 horas
+    - **IMC:** Índice de massa corporal (peso em kg/(altura em m)$^2$)
+    - **Diabetes-Pedigree:** Função de pedigree do diabetes
+    - **Idade:** Idade (anos)
+    - **Diabetes:** Variável rótulo (0 = não, 1 = sim)
+
 ## Principais Etapas
 
 1. Importação das bibliotecas e dados.
