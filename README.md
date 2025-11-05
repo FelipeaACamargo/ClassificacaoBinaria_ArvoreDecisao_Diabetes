@@ -16,7 +16,7 @@ No arquivo Diabetes.xlsx, contém as seguintes informações:
 - **Pressão Arterial:** Pressão arterial diastólica (mm Hg)
 - **Espessura da Pele:** Espessura da prega cutânea do tríceps (mm)
 - **Insulina:** Insulina sérica de 2 horas
-- **IMC:** Índice de massa corporal (peso em kg/(altura em m)$^2$)
+- **IMC:** Índice de massa corporal (peso em kg/(altura em m)²)
 - **Diabetes-Pedigree:** Função de pedigree do diabetes
 - **Idade:** Idade (anos)
 - **Diabetes:** Variável rótulo (0 = não, 1 = sim)
