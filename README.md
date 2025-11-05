@@ -35,7 +35,7 @@ No arquivo Diabetes.xlsx, contém as seguintes informações:
 
 ## Como Executar
 
-1. Clone este repositório e baixe o arquivo Diabetes.xlsx.
+1. Copie este repositório e baixe o arquivo Diabetes.xlsx.
 2. Recomenda-se um ambiente com Python 3.7+.
 3. Instale os requisitos do projeto:
     ```
