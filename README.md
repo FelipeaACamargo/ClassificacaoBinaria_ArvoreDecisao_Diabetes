@@ -221,7 +221,6 @@ Além disso, a análise das métricas de desempenho fornece uma visão abrangent
 ## Referências
 
 * https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-* https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
 * https://scikit-learn.org/stable/modules/tree.html
 * https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
